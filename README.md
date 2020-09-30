@@ -26,15 +26,15 @@
 
 
 ## :computer:Tecnologias 
-React Native ⚛️ <br />
+React Native ⚛️ 🤖👾👽🐱‍🚀<br />
 Typescript 🦕 </br>
 Styled-Components 💅🏻 <br />
 Jest 🃏 <br />
-Est-lint </br>
-React Router DOM </br>
-React Navigation
-Styled Components
-Axios
+Est-lint 👽🐱‍🐉</br>
+React Router DOM 🐱‍💻</br>
+React Navigation 🌊🚢</br>
+Styled Components ®❄</br>
+Axios </br>
  
 
 
