@@ -1,6 +1,17 @@
-# GoRestaurante-Mobile
-Esse é um desafio do Bootcamp GoStack da Rocketseat. Para praticar React Native junto com TypeScript para criar um pequeno app para pedidos de comida.<br/>
- Mais informaçes sobre o desafio acesse [aqui](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
+<h1 align="center">
+  # GoRestaurante-Mobile
+</h1>
+<h3 align="center">
+  Esse é um desafio do Bootcamp GoStack da Rocketseat. Para praticar React Native junto com TypeScript para criar um pequeno app para pedidos de comida.<br/> 
+  Mais informaçes sobre o desafio acesse [aqui](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
+</h3>
+
+<p align="center">
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gilles30/GoRestaurante-mobile?color=1db954">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gilles30/GoRestaurante-mobile?color=1db954">
+      <img alt="Stars" src="https://img.shields.io/github/stars/Gilles30/GoRestaurante-mobile?color=1db954">
+      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Gilles30/GoRestaurante-mobile?color=1db954">
+  </p>
  
 # Layout
 <p align="center">
@@ -14,19 +25,27 @@ Esse é um desafio do Bootcamp GoStack da Rocketseat. Para praticar React Native
 
 
 
-# Tecnologias 
+## :computer:Tecnologias 
 React Native ⚛️ <br />
 Typescript 🦕 </br>
 Styled-Components 💅🏻 <br />
 Jest 🃏 <br />
+Est-lint </br>
+React Router DOM </br>
+React Navigation
+Styled Components
+Axios
+ 
+
+
 
 
 
 # Como obter esse repositório? 
 Para obter esse projeto, siga os passos:
-1. Clone esse repositório utilizando <code>git clone</code>.
+1. Clone esse repositório utilizando <code>git clone</code> $$https://github.com/Gilles30/GoRestaurante-mobile.
 2. Rode o comando <code> yarn </code> na raíz da pasta do projeto clonado para baixar as dependências.
-3. Rode <code>json-server server.json -p 3333</code> na raíz da pasta do projeto para inicializar a Fake API.
+3. Rode <code> Yarn run json-server server.json -p 3333</code> na raíz da pasta do projeto para inicializar a Fake API.
 4. Rode o comando <code> yarn android</code> (se estiver emulando em um android) ou <code>yarn ios</code> 
 (se estiver emulando em um ios) na raíz da pasta do projeto clonado para instalar o app no emulador.
 5. Rode <code> yarn start </code> na raíz da pasta do projeto para inicializar o Metro Bundler.
@@ -38,7 +57,7 @@ Para obter esse projeto, siga os passos:
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd GoRestaurantMobile
+$ git clone url-do-seu-fork && cd GoRestaurante-mobile
 
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
@@ -52,7 +71,8 @@ $ git push origin minha-branch
 
 Delete sua branch, se quiser, quando o merge da sua pull request for feito. <br />
 
-Autor: <a href="https://www.linkedin.com/in/adelar-de-mello-1948a1168/" target="blank">Adelar</a>.
+<p>feito com 💜 Lorison Gilles :wave: <a href="https://www.linkedin.com/in/lorison-gilles/">Get in touch!</a></p>
+
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
